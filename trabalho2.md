@@ -46,3 +46,34 @@ Nome: Fabio Akira Castilho Kinukawa                          RA:
 | Roteador-Itapejara    | Fa0/1     |200.200.40.241|255.255.255.252|                |              |                |
 | Roteador-Coronel      | Fa0/0     |200.200.40.97|255.255.255.224|                |              |                |
 | Roteador-Coronel      | Fa0/1     |200.200.40.242|255.255.255.252|                |              |                |
+
+## Tarefa 3: Tabela de Roteamento
+### Roteador Pato Branco
+#### IPv4
+| Rede de Destino | Máscara | Next Hop | Interface de Saída |
+|-----------------|---------|----------|--------------------|
+|                 |         |          |                    |
+|                 |         |          |                    |
+|                 |         |          |                    |
+#### IPv6
+| Rede de Destino/Prefixo | Next Hop | Interface de Saída |
+|-----------------|----------|--------------------|
+|                 |          |                    |
+|                 |          |                    |
+|                 |          |                    |
+
+
+## Topologia - Packet Tracer
+- [ ] ![Trabalho2-Topologia-NomeAluno](trabalho2-topologia-NomeAluno.pkt)
+
+
+## Arquivos de Configuração dos Dispositivos Intermediários (roteadores e switches)
+- [ ] ![Roteador Pato Branco](r-pb-nnn.pkt)
+- [ ] ![Roteador Francisco Beltrão](r-fb-nnn.pkt)
+- [ ] ![Roteador Vitorino](r-vit-nnn.pkt)
+- [ ] ![Roteador Itapejara D'Oeste](r-ita-nnn.pkt)
+- [ ] ![Roteador Coronel Vivida](r-cv-nnn.pkt)
+- [ ] ![Switch Pato Branco](sw-pb-nnn.pkt)
+- [ ] ![Switch Francisco Beltrão](sw-fb-nnn.pkt)
+- [ ] ![Switch Coronel Vivida](sw-cv-nnn.pkt)
+
