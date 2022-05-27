@@ -42,7 +42,7 @@ Nome: Fabio Akira Castilho Kinukawa         RA: 1587340
 | Roteador-Fco. Beltrão | Se0/0/0   |200.200.40.233|255.255.255.252|  |2001:DB8:ACAD:28FF::2:1/112|                |
 | Roteador-Fco. Beltrão | Se0/0/1   |200.200.40.230|255.255.255.252|  |2001:DB8:ACAD:28FF::1:2/112|                |
 | Roteador-Vitorino     | Se0/0/0   |200.200.40.229|255.255.255.252|  |2001:DB8:ACAD:28FF::1:1/112|                |
-| Roteador-Vitorino     | Se0/0/1   |200.200.40.226|255.255.255.252|  |2001:DB8:ACAD:28FF::2/112|                |
+| Roteador-Vitorino     | Se0/0/1   |200.200.40.226|255.255.255.252|  |2001:DB8:ACAD:28FF::2/112 |                |
 | Roteador-Itapejara    | Se0/0/0   |200.200.40.237|255.255.255.252|  |2001:DB8:ACAD:28FF::3:1/112|                |
 | Roteador-Itapejara    | Se0/0/1   |200.200.40.234|255.255.255.252|  |2001:DB8:ACAD:28FF::2:2/112|                |
 | Roteador-Itapejara    | Fa0/1     |200.200.40.241|255.255.255.252|  |2001:DB8:ACAD:28FF::4:1/112 |                |
@@ -62,7 +62,7 @@ Nome: Fabio Akira Castilho Kinukawa         RA: 1587340
 #### IPv6
 | Rede de Destino/Prefixo | Next Hop | Interface de Saída |
 |-----------------|----------|--------------------|
-|                 |          |                    |
+|2001:DB8:ACAD:28FF::1:0/112 | 001:DB8:ACAD:28FF::2 | Se0/0/0 |
 |                 |          |                    |
 |                 |          |                    |
 
