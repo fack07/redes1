@@ -36,7 +36,7 @@ Nome: Fabio Akira Castilho Kinukawa                          RA:
 | Roteador-Pato Branco  | Fa0/0     |200.200.40.1|255.255.255.192| |2001:DB8:ACAD:2800::1/64|                |
 | Roteador-Pato Branco  | Se0/0/0   |200.200.40.225|255.255.255.252|                |              |                |
 | Roteador-Pato Branco  | Se0/0/1   |200.200.40.238|255.255.255.252|                |              |                |
-| Roteador-Fco. Beltrão | Fa0/0     |200.200.40.65|255.255.255.224|2001:DB8:ACAD:2801::1/64|              |                |
+| Roteador-Fco. Beltrão | Fa0/0     |200.200.40.65|255.255.255.224||2001:DB8:ACAD:2801::1/64|                |
 | Roteador-Fco. Beltrão | Se0/0/0   |200.200.40.233|255.255.255.252|                |              |                |
 | Roteador-Fco. Beltrão | Se0/0/1   |200.200.40.230|255.255.255.252|                |              |                |
 | Roteador-Vitorino     | Se0/0/0   |200.200.40.229|255.255.255.252|                |              |                |
