@@ -45,5 +45,4 @@ Nome: Fabio Akira Castilho Kinukawa                          RA:
 | Roteador-Itapejara    | Se0/0/1   |200.200.40.234|255.255.255.252|                |              |                |
 | Roteador-Itapejara    | Fa0/1     |200.200.40.241|255.255.255.252|                |              |                |
 | Roteador-Coronel      | Fa0/0     |200.200.40.97|255.255.255.224|                |              |                |
-| Roteador-Coronel      | Se0/0/1   |   |                |                |              |                |
 | Roteador-Coronel      | Fa0/1     |200.200.40.242|255.255.255.252|                |              |                |
