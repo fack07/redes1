@@ -80,9 +80,11 @@ Nome: Fabio Akira Castilho Kinukawa         RA: 1587340
 #### IPv6
 | Rede de Destino/Prefixo | Next Hop | Interface de Saída |
 |-----------------|----------|--------------------|
-|                 |          |                    |
-|                 |          |                    |
-|                 |          |                    |
+|2001:DB8:ACAD:2801::/64 | 2001:DB8:ACAD:28FF::1:2 |Se0/0/0 |
+|2001:DB8:ACAD:28FF::2:/112 | 2001:DB8:ACAD:28FF::1:2 |Se0/0/0 |
+|2001:DB8:ACAD:28FF::4:/112 | 2001:DB8:ACAD:28FF::1:2 |Se0/0/0 |
+|2001:DB8:ACAD:2802::/64 | 2001:DB8:ACAD:28FF::1:2 |Se0/0/0 |
+|2001:DB8:ACAD:28FF::3:/112 | 2001:DB8:ACAD:28FF::1:2 |Se0/0/0 |
 
 ### Roteador Francisco Beltrão
 #### IPv4
