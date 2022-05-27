@@ -54,6 +54,20 @@ Nome: Fabio Akira Castilho Kinukawa         RA: 1587340
 #### IPv4
 | Rede de Destino | Máscara | Next Hop | Interface de Saída |
 |-----------------|---------|----------|--------------------|
+| 200.200.40.228 | 255.255.255.252 |200.200.40.226 | Se0/0/0       |
+|                 |         |          |                    |
+|                 |         |          |                    |
+#### IPv6
+| Rede de Destino/Prefixo | Next Hop | Interface de Saída |
+|-----------------|----------|--------------------|
+|                 |          |                    |
+|                 |          |                    |
+|                 |          |                    |
+
+### Roteador Vitorino
+#### IPv4
+| Rede de Destino | Máscara | Next Hop | Interface de Saída |
+|-----------------|---------|----------|--------------------|
 |                 |         |          |                    |
 |                 |         |          |                    |
 |                 |         |          |                    |
@@ -64,6 +78,33 @@ Nome: Fabio Akira Castilho Kinukawa         RA: 1587340
 |                 |          |                    |
 |                 |          |                    |
 
+### Roteador Francisco Beltrão
+#### IPv4
+| Rede de Destino | Máscara | Next Hop | Interface de Saída |
+|-----------------|---------|----------|--------------------|
+|                 |         |          |                    |
+|                 |         |          |                    |
+|                 |         |          |                    |
+#### IPv6
+| Rede de Destino/Prefixo | Next Hop | Interface de Saída |
+|-----------------|----------|--------------------|
+|                 |          |                    |
+|                 |          |                    |
+|                 |          |                    |
+
+### Roteador Itapejara D'Oeste
+#### IPv4
+| Rede de Destino | Máscara | Next Hop | Interface de Saída |
+|-----------------|---------|----------|--------------------|
+|                 |         |          |                    |
+|                 |         |          |                    |
+|                 |         |          |                    |
+#### IPv6
+| Rede de Destino/Prefixo | Next Hop | Interface de Saída |
+|-----------------|----------|--------------------|
+|                 |          |                    |
+|                 |          |                    |
+|                 |          |                    |
 
 ## Topologia - Packet Tracer
 - [ ] ![Trabalho2-Topologia-NomeAluno](trabalho2-topologia-NomeAluno.pkt)
