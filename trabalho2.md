@@ -24,26 +24,26 @@ Nome: Fabio Akira Castilho Kinukawa                          RA:
 ## Tarefa 2: Endereçamento de Dispositivos
 | Dispositivo           | Interface | IPv4 | IPv4 - Máscara | IPv4 - Gateway | IPv6/Prefixo | IPv6 - Gateway |
 |-----------------------|-----------|------|----------------|----------------|--------------|----------------|
-| PC1                   | NIC       |200.200.40.3|                |                |              |                |
-| PC2                   | NIC       |200.200.40.4|                |                |              |                |
-| PC3                   | NIC       |200.200.40.67|                |                |              |                |
-| PC4                   | NIC       |200.200.40.68|                |                |              |                |
-| PC5                   | NIC       |200.200.40.99|                |                |              |                |
-| PC6                   | NIC       |200.200.40.100|                |                |              |                |
-| Switch-Matriz         | SVI       |200.200.40.2|                |                |              |                |
-| Switch-Filial1        | SVI       |200.200.40.66|                |                |              |                |
-| Switch-Filial2        | SVI       |200.200.40.98|                |                |              |                |
-| Roteador-Pato Branco  | Fa0/0     |200.200.40.1|                |                |              |                |
-| Roteador-Pato Branco  | Se0/0/0   |200.200.40.225|                |                |              |                |
-| Roteador-Pato Branco  | Se0/0/1   |200.200.40.238|                |                |              |                |
-| Roteador-Fco. Beltrão | Fa0/0     |200.200.40.65|                |                |              |                |
-| Roteador-Fco. Beltrão | Se0/0/0   |200.200.40.233|                |                |              |                |
-| Roteador-Fco. Beltrão | Se0/0/1   |200.200.40.230|                |                |              |                |
-| Roteador-Vitorino     | Se0/0/0   |200.200.40.229|                |                |              |                |
-| Roteador-Vitorino     | Se0/0/1   |200.200.40.226|                |                |              |                |
-| Roteador-Itapejara    | Se0/0/0   |200.200.40.237|                |                |              |                |
-| Roteador-Itapejara    | Se0/0/1   |200.200.40.234|                |                |              |                |
-| Roteador-Itapejara    | Fa0/1     |200.200.40.241|                |                |              |                |
-| Roteador-Coronel      | Fa0/0     |200.200.40.97|                |                |              |                |
-| Roteador-Coronel      | Se0/0/1   |-----|                |                |              |                |
-| Roteador-Coronel      | Fa0/1     |200.200.40.242|                |                |              |                |
+| PC1                   | NIC       |200.200.40.3|255.255.255.192|                |              |                |
+| PC2                   | NIC       |200.200.40.4|255.255.255.192|                |              |                |
+| PC3                   | NIC       |200.200.40.67|255.255.255.224|                |              |                |
+| PC4                   | NIC       |200.200.40.68|255.255.255.224|                |              |                |
+| PC5                   | NIC       |200.200.40.99|255.255.255.224|                |              |                |
+| PC6                   | NIC       |200.200.40.100|255.255.255.224|                |              |                |
+| Switch-Matriz         | SVI       |200.200.40.2|255.255.255.192|                |              |                |
+| Switch-Filial1        | SVI       |200.200.40.66|255.255.255.224|                |              |                |
+| Switch-Filial2        | SVI       |200.200.40.98|255.255.255.224|                |              |                |
+| Roteador-Pato Branco  | Fa0/0     |200.200.40.1|255.255.255.192|                |              |                |
+| Roteador-Pato Branco  | Se0/0/0   |200.200.40.225|255.255.255.252|                |              |                |
+| Roteador-Pato Branco  | Se0/0/1   |200.200.40.238|255.255.255.252|                |              |                |
+| Roteador-Fco. Beltrão | Fa0/0     |200.200.40.65|255.255.255.224|                |              |                |
+| Roteador-Fco. Beltrão | Se0/0/0   |200.200.40.233|255.255.255.252|                |              |                |
+| Roteador-Fco. Beltrão | Se0/0/1   |200.200.40.230|255.255.255.252|                |              |                |
+| Roteador-Vitorino     | Se0/0/0   |200.200.40.229|255.255.255.252|                |              |                |
+| Roteador-Vitorino     | Se0/0/1   |200.200.40.226|255.255.255.252|                |              |                |
+| Roteador-Itapejara    | Se0/0/0   |200.200.40.237|255.255.255.252|                |              |                |
+| Roteador-Itapejara    | Se0/0/1   |200.200.40.234|255.255.255.252|                |              |                |
+| Roteador-Itapejara    | Fa0/1     |200.200.40.241|255.255.255.252|                |              |                |
+| Roteador-Coronel      | Fa0/0     |200.200.40.97|255.255.255.224|                |              |                |
+| Roteador-Coronel      | Se0/0/1   |   |                |                |              |                |
+| Roteador-Coronel      | Fa0/1     |200.200.40.242|255.255.255.252|                |              |                |
