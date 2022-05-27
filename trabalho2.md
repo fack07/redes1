@@ -35,15 +35,15 @@ Nome: Fabio Akira Castilho Kinukawa                          RA:
 | Switch-Filial2        | SVI       |200.200.40.98|                |                |              |                |
 | Roteador-Pato Branco  | Fa0/0     |200.200.40.1|                |                |              |                |
 | Roteador-Pato Branco  | Se0/0/0   |200.200.40.225|                |                |              |                |
-| Roteador-Pato Branco  | Se0/0/1   |200.200.40.0|                |                |              |                |
+| Roteador-Pato Branco  | Se0/0/1   |200.200.40.238|                |                |              |                |
 | Roteador-Fco. Beltrão | Fa0/0     |200.200.40.65|                |                |              |                |
 | Roteador-Fco. Beltrão | Se0/0/0   |200.200.40.233|                |                |              |                |
-| Roteador-Fco. Beltrão | Se0/0/1   |200.200.40.0|                |                |              |                |
+| Roteador-Fco. Beltrão | Se0/0/1   |200.200.40.230|                |                |              |                |
 | Roteador-Vitorino     | Se0/0/0   |200.200.40.229|                |                |              |                |
-| Roteador-Vitorino     | Se0/0/1   |200.200.40.0|                |                |              |                |
+| Roteador-Vitorino     | Se0/0/1   |200.200.40.226|                |                |              |                |
 | Roteador-Itapejara    | Se0/0/0   |200.200.40.237|                |                |              |                |
-| Roteador-Itapejara    | Se0/0/1   |200.200.40.0|                |                |              |                |
-| Roteador-Itapejara    | Fa0/1     |200.200.40.0|                |                |              |                |
+| Roteador-Itapejara    | Se0/0/1   |200.200.40.234|                |                |              |                |
+| Roteador-Itapejara    | Fa0/1     |200.200.40.241|                |                |              |                |
 | Roteador-Coronel      | Fa0/0     |200.200.40.97|                |                |              |                |
-| Roteador-Coronel      | Se0/0/1   |200.200.40.0|                |                |              |                |
-| Roteador-Coronel      | Fa0/1     |200.200.40.0|                |                |              |                |
+| Roteador-Coronel      | Se0/0/1   |-----|                |                |              |                |
+| Roteador-Coronel      | Fa0/1     |200.200.40.242|                |                |              |                |
