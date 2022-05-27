@@ -33,19 +33,19 @@ Nome: Fabio Akira Castilho Kinukawa                          RA:
 | Switch-Matriz         | SVI       |200.200.40.2|255.255.255.192|200.200.40.1|2001:DB8:ACAD:2800::2/64 |2001:DB8:ACAD:2800::1/64|
 | Switch-Filial1        | SVI       |200.200.40.66|255.255.255.224|200.200.40.65|2001:DB8:ACAD:2801::2/64 |2001:DB8:ACAD:2801::1/64|
 | Switch-Filial2        | SVI       |200.200.40.98|255.255.255.224|200.200.40.97|2001:DB8:ACAD:2802::2/64 |2001:DB8:ACAD:2802::1/64|
-| Roteador-Pato Branco  | Fa0/0     |200.200.40.1|255.255.255.192| |2001:DB8:ACAD:2800::1/64|                |
-| Roteador-Pato Branco  | Se0/0/0   |200.200.40.225|255.255.255.252|     |2001:DB8:ACAD:28FF::1/112|                |
-| Roteador-Pato Branco  | Se0/0/1   |200.200.40.238|255.255.255.252| |2001:DB8:ACAD:28FF::3:2/112 |                |
-| Roteador-Fco. Beltrão | Fa0/0     |200.200.40.65|255.255.255.224||2001:DB8:ACAD:2801::1/64|                |
-| Roteador-Fco. Beltrão | Se0/0/0   |200.200.40.233|255.255.255.252|                |              |                |
-| Roteador-Fco. Beltrão | Se0/0/1   |200.200.40.230|255.255.255.252|                |              |                |
-| Roteador-Vitorino     | Se0/0/0   |200.200.40.229|255.255.255.252|                |              |                |
-| Roteador-Vitorino     | Se0/0/1   |200.200.40.226|255.255.255.252|                |              |                |
-| Roteador-Itapejara    | Se0/0/0   |200.200.40.237|255.255.255.252|                |              |                |
-| Roteador-Itapejara    | Se0/0/1   |200.200.40.234|255.255.255.252|                |              |                |
-| Roteador-Itapejara    | Fa0/1     |200.200.40.241|255.255.255.252|                |              |                |
-| Roteador-Coronel      | Fa0/0     |200.200.40.97|255.255.255.224||2001:DB8:ACAD:2802::1/64|                |
-| Roteador-Coronel      | Fa0/1     |200.200.40.242|255.255.255.252|                |              |                |
+| Roteador-Pato Branco  | Fa0/0     |200.200.40.1|255.255.255.192|    |2001:DB8:ACAD:2800::1/64|                |
+| Roteador-Pato Branco  | Se0/0/0   |200.200.40.225|255.255.255.252|  |2001:DB8:ACAD:28FF::1/112|                |
+| Roteador-Pato Branco  | Se0/0/1   |200.200.40.238|255.255.255.252|  |2001:DB8:ACAD:28FF::3:2/112 |                |
+| Roteador-Fco. Beltrão | Fa0/0     |200.200.40.65|255.255.255.224|   |2001:DB8:ACAD:2801::1/64|                |
+| Roteador-Fco. Beltrão | Se0/0/0   |200.200.40.233|255.255.255.252|  |2001:DB8:ACAD:28FF::2:1/112|                |
+| Roteador-Fco. Beltrão | Se0/0/1   |200.200.40.230|255.255.255.252|  |2001:DB8:ACAD:28FF::1:2/112|                |
+| Roteador-Vitorino     | Se0/0/0   |200.200.40.229|255.255.255.252|  |2001:DB8:ACAD:28FF::1:1/112|                |
+| Roteador-Vitorino     | Se0/0/1   |200.200.40.226|255.255.255.252|  |2001:DB8:ACAD:28FF::2/112|                |
+| Roteador-Itapejara    | Se0/0/0   |200.200.40.237|255.255.255.252|  |2001:DB8:ACAD:28FF::3:1/112|                |
+| Roteador-Itapejara    | Se0/0/1   |200.200.40.234|255.255.255.252|  |2001:DB8:ACAD:28FF::2:2/112|                |
+| Roteador-Itapejara    | Fa0/1     |200.200.40.241|255.255.255.252|  |2001:DB8:ACAD:28FF::4:1/112 |                |
+| Roteador-Coronel      | Fa0/0     |200.200.40.97|255.255.255.224|   |2001:DB8:ACAD:2802::1/64|                |
+| Roteador-Coronel      | Fa0/1     |200.200.40.242|255.255.255.252|  |2001:DB8:ACAD:28FF::4:2/112 |                |
 
 ## Tarefa 3: Tabela de Roteamento
 ### Roteador Pato Branco
