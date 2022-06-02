@@ -149,12 +149,12 @@ Nome: Fabio Akira Castilho Kinukawa         RA: 1587340
 
 
 ## Arquivos de Configuração dos Dispositivos Intermediários (roteadores e switches)
-- [ ] ![Roteador Pato Branco](r-pb-nnn.pkt)
-- [ ] ![Roteador Francisco Beltrão](r-fb-nnn.pkt)
-- [ ] ![Roteador Vitorino](r-vit-nnn.pkt)
-- [ ] ![Roteador Itapejara D'Oeste](r-ita-nnn.pkt)
-- [ ] ![Roteador Coronel Vivida](r-cv-nnn.pkt)
-- [ ] ![Switch Pato Branco](sw-pb-nnn.pkt)
-- [ ] ![Switch Francisco Beltrão](sw-fb-nnn.pkt)
-- [ ] ![Switch Coronel Vivida](sw-cv-nnn.pkt)
+- [ ] ![Roteador Pato Branco](r-pb-nnn.txt)
+- [ ] ![Roteador Francisco Beltrão](r-fb-nnn.txt)
+- [ ] ![Roteador Vitorino](r-vit-nnn.txt)
+- [ ] ![Roteador Itapejara D'Oeste](r-ita-nnn.txt)
+- [ ] ![Roteador Coronel Vivida](r-cv-nnn.txt)
+- [ ] ![Switch Pato Branco](sw-pb-nnn.txt)
+- [ ] ![Switch Francisco Beltrão](sw-fb-nnn.txt)
+- [ ] ![Switch Coronel Vivida](sw-cv-nnn.txt)
 
