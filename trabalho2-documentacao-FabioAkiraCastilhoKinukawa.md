@@ -156,7 +156,7 @@ Nome: Fabio Akira Castilho Kinukawa         RA: 1587340
 - [ ] ![Roteador Francisco Beltrão](r-fb-fa.txt)
 - [ ] ![Roteador Vitorino](r-vit-fa.txt)
 - [ ] ![Roteador Itapejara D'Oeste](r-ita-fa.txt)
-- [ ] ![Roteador Coronel Vivida](https://github.com/fack07/redes1/files/8847428/r-cv-fa.txt)
+- [ ] ![Roteador Coronel Vivida](r-cv-fa.txt)
 - [ ] ![Switch Pato Branco](sw-pb-fa.txt)
 - [ ] ![Switch Francisco Beltrão](sw-fb-fa.txt)
 - [ ] ![Switch Coronel Vivida](sw-cv-fa.txt)
