@@ -1,4 +1,3 @@
-[r-cv-fa.txt](https://github.com/fack07/redes1/files/8846910/r-cv-fa.txt)
 # Trabalho 2: Integração de habilidades - 2022/1
 
 Disciplina: Redes de Computadores
