@@ -148,16 +148,16 @@ Nome: Fabio Akira Castilho Kinukawa         RA: 1587340
 
 
 ## Topologia - Packet Tracer
-- [ ] ![Trabalho2-Topologia-NomeAluno](trabalho2-topologia-NomeAluno.pkt)
+- [ ] ![Trabalho2-Topologia-FabioAkiraCastilhoKinukawa](trabalho2-topologia-FabioAkiraCastilhoKinukawa.pkt)
 
 
 ## Arquivos de Configuração dos Dispositivos Intermediários (roteadores e switches)
-- [ ] ![Roteador Pato Branco](r-pb-nnn.txt)
-- [ ] ![Roteador Francisco Beltrão](r-fb-nnn.txt)
-- [ ] ![Roteador Vitorino](r-vit-nnn.txt)
-- [ ] ![Roteador Itapejara D'Oeste](r-ita-nnn.txt)
-- [ ] ![Roteador Coronel Vivida](r-cv-nnn.txt)
-- [ ] ![Switch Pato Branco](sw-pb-nnn.txt)
-- [ ] ![Switch Francisco Beltrão](sw-fb-nnn.txt)
-- [ ] ![Switch Coronel Vivida](sw-cv-nnn.txt)
+- [ ] ![Roteador Pato Branco](r-pb-fa.txt)
+- [ ] ![Roteador Francisco Beltrão](r-fb-fa.txt)
+- [ ] ![Roteador Vitorino](r-vit-fa.txt)
+- [ ] ![Roteador Itapejara D'Oeste](r-ita-fa.txt)
+- [ ] ![Roteador Coronel Vivida](r-cv-fa.txt)
+- [ ] ![Switch Pato Branco](sw-pb-fa.txt)
+- [ ] ![Switch Francisco Beltrão](sw-fb-fa.txt)
+- [ ] ![Switch Coronel Vivida](sw-cv-fa.txt)
 
