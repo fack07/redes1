@@ -76,6 +76,8 @@ interface Vlan1
  no ip address
  shutdown
 !
+router rip
+!
 ip classless
 ip route 200.200.40.228 255.255.255.252 200.200.40.226 
 ip route 200.200.40.232 255.255.255.252 200.200.40.226 
@@ -88,8 +90,8 @@ ip flow-export version 9
 ipv6 route 2001:DB8:ACAD:28FF::1:0/112 2001:DB8:ACAD:28FF::2
 ipv6 route 2001:DB8:ACAD:28FF::2:0/112 2001:DB8:ACAD:28FF::2
 ipv6 route 2001:DB8:ACAD:2801::/64 2001:DB8:ACAD:28FF::2
-ipv6 route 2001:DB8:ACAD:28FF::4:0/112 1:DB8:ACAD:28FF::2
 ipv6 route 2001:DB8:ACAD:2802::/64 2001:DB8:ACAD:28FF::2
+ipv6 route 2001:DB8:ACAD:28FF::4:0/112 2001:DB8:ACAD:28FF::2
 !
 ip access-list extended sl_def_acl
  deny tcp any any eq telnet
